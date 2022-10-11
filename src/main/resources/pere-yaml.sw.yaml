@@ -1,0 +1,9 @@
+name: "pere-yaml"
+id: "pere-yaml"
+specVersion: "0.9"
+start: "state1"
+states:
+  - name: "state1"
+    type: operation
+    end: true
+    actions: []
